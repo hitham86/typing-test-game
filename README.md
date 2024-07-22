@@ -1,6 +1,6 @@
 # 📝 Typing Game 🎮
 
-Challenge yourself and improve your typing skills with this fun and interactive game. 
+Challenge yourself and improve your typing skills with this fun and interactive typing test game. 
 
 <img src="https://github.com/hitham86/typing-test-game/blob/main/img/typing-gif.gif" height=100% width=100%>
 
